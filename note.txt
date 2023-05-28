@@ -1,0 +1,19 @@
+
+
+    //importent reference url
+//https://github.com/gravitee-io-community/json-schema-generator-maven-plugin
+    //https://github.com/FasterXML/jackson-module-jsonSchema
+    //https://central.sonatype.com/?smo=true     ---searchin arch type in maven
+
+	//https://github.com/victools/jsonschema-generator/tree/main/jsonschema-maven-plugin
+
+//note some importent urls
+//https://github.com/mojohaus
+
+  //      you can find more plugin here
+
+    //    and you can find cordinate in  maven repository
+
+      //  https://mvnrepository.com/artifact/org.codehaus.mojo/jaxb2-maven-plugin/3.1.0
+
+      //https://www.jsonschema2pojo.org/   ==json to java generator site
