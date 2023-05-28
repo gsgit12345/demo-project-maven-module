@@ -44,6 +44,21 @@
             </goals>
           </execution>
         </executions>
+     <!-- <configuration>
+        <skipITs>true</skipITs> --> <!-- skipping intregation test -->
+      <!--  <skipTests>true</skipTests>--> <!-- skipping intregation test -->
+     <!-- </configuration>  -->
+      <!--
+      <configuration>
+        <includes>
+          <include>**/SquareTestIT</include>
+        </includes>
+        <excludes>
+          <exclude>**/AppTest</exclude>
+          <exclude>%regex[.*(Test).*Test.*]</exclude>
+        </excludes>
+      </configuration>
+      -->
       </plugin>
     </plugins>
 

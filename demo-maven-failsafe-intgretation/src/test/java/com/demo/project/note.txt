@@ -1,0 +1,55 @@
+
+
+//for skipping the test
+// mvn clean install -DskipTests -DskipITs
+//skip the intregation test
+// mvn clean install -DskipITs
+//mvn clean install -DskipTests
+//mvn clean install -Dmaven.test.skip=true
+
+//mvn clean verify -Dit.test=DemoTestIT    here it mean is the integrationtest
+//[iid@iid demo-project-maven-module]$ mvn clean verify -Dit.test=DemoTestIT#sayDemo    running particular method in the DemoTestIT
+[iid@iid demo-project-maven-module]$ mvn clean verify -Dit.test=DemoTestIT#sayDemo+sayTest        running two sayDemo and sayTest method in the DemoTestIT
+[iid@iid demo-project-maven-module]$ mvn clean verify -Dit.test=DemoTestIT#*        running all test method
+[iid@iid demo-project-maven-module]$ mvn clean verify -Dit.test=DemoTestIT#*,SquareTestIT#sayTestDemo   running two test file
+
+
+forked test
+
+parallel test
+
+[iid@iid demo-maven-failsafe-intgretation]$ mvn dependency:tree
+
+Direct dependecy
+
+transitivity depency:-a-b-c  then a is related to c
+
+Build settings
+1-sourceDirectory
+2-scriptSourceDirectory
+3-testSourceDirectory
+4-outputDirectory
+5-testOutputDirectory
+
+===including the file in project using below tags in maven
+resources
+testResources
+
+plugins and plugin
+
+reporting
+build environment
+environment
+issue management
+ci management
+mailing list
+scm
+prerequisite
+repository
+distribution management
+profiles
+
+
+
+
+

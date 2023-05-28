@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demo-custome-lifecycle-mapping" />
+        <module name="demo-maven-generatecode-java-to-xsd" />
+        <module name="demo-maven-failsafe-intgretation" />
+        <module name="demo-maven-generate-xsd-to-java" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo-custome-lifecycle-mapping" target="1.8" />
+      <module name="demo-maven-failsafe-intgretation" target="1.8" />
+      <module name="demo-maven-generate-xsd-to-java" target="1.8" />
+      <module name="demo-maven-generatecode-java-to-xsd" target="1.8" />
+      <module name="demo-project-maven-module" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
