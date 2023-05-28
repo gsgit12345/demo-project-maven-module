@@ -17,3 +17,8 @@
       //  https://mvnrepository.com/artifact/org.codehaus.mojo/jaxb2-maven-plugin/3.1.0
 
       //https://www.jsonschema2pojo.org/   ==json to java generator site
+
+      //swagger codegen module reference url
+      https://github.com/swagger-api/swagger-codegen/tree/3.0.0/modules/swagger-codegen-maven-plugin
+      https://petstore.swagger.io/v2/swagger.json
+      https://github.com/swagger-api/swagger-codegen/tree/3.0.0/modules/swagger-codegen-maven-plugin

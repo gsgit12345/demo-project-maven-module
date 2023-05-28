@@ -16,6 +16,7 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <module>demo-maven-generate-code-java-to-json-schema</module>
     <module>demo-maven-generate-code-json-schema-to-java</module>
       <module>demo-maven-generate-code-wsdl-to-java</module>
+    <module>demo-project-maven-openapi-java</module>
   </modules>
 
 
