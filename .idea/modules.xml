@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/demo-custome-lifecycle-mapping/demo-custome-lifecycle-mapping.iml" filepath="$PROJECT_DIR$/demo-custome-lifecycle-mapping/demo-custome-lifecycle-mapping.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-maven-failsafe-intgretation/demo-maven-failsafe-intgretation.iml" filepath="$PROJECT_DIR$/demo-maven-failsafe-intgretation/demo-maven-failsafe-intgretation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-maven-generate-code-java-to-json-schema/demo-maven-generate-code-java-to-json-schema.iml" filepath="$PROJECT_DIR$/demo-maven-generate-code-java-to-json-schema/demo-maven-generate-code-java-to-json-schema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-maven-generate-code-json-schema-to-java/demo-maven-generate-code-json-schema-to-java.iml" filepath="$PROJECT_DIR$/demo-maven-generate-code-json-schema-to-java/demo-maven-generate-code-json-schema-to-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-maven-generate-code-wsdl-to-java/demo-maven-generate-code-wsdl-to-java.iml" filepath="$PROJECT_DIR$/demo-maven-generate-code-wsdl-to-java/demo-maven-generate-code-wsdl-to-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-maven-generate-xsd-to-java/demo-maven-generate-xsd-to-java.iml" filepath="$PROJECT_DIR$/demo-maven-generate-xsd-to-java/demo-maven-generate-xsd-to-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-maven-generatecode-java-to-xsd/demo-maven-generatecode-java-to-xsd.iml" filepath="$PROJECT_DIR$/demo-maven-generatecode-java-to-xsd/demo-maven-generatecode-java-to-xsd.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-project-maven-module.iml" filepath="$PROJECT_DIR$/demo-project-maven-module.iml" />
