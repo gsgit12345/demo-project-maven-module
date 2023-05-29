@@ -22,3 +22,8 @@
       https://github.com/swagger-api/swagger-codegen/tree/3.0.0/modules/swagger-codegen-maven-plugin
       https://petstore.swagger.io/v2/swagger.json
       https://github.com/swagger-api/swagger-codegen/tree/3.0.0/modules/swagger-codegen-maven-plugin
+
+      maven-surefire plugin
+      1-pojo test
+      2-JUNIT
+      3-TestNG

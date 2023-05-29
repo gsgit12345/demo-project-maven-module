@@ -17,6 +17,10 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <module>demo-maven-generate-code-json-schema-to-java</module>
       <module>demo-maven-generate-code-wsdl-to-java</module>
     <module>demo-project-maven-openapi-java</module>
+      <module>demo-maven-surefire-plugin-code</module>
+      <module>demo-project-maven-surefire-junit4-code</module>
+      <module>demo-project-maven-surefire-junit5-code</module>
+    <module>demo-project-maven-surefire-junit4-junit5-runboth</module>
   </modules>
 
 
