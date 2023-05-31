@@ -2,12 +2,21 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/demo-custome-lifecycle-mapping/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-maven-code-challenges-java-junitreport/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo-maven-failsafe-intgretation/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo-maven-generate-code-java-to-json-schema/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo-maven-generate-code-json-schema-to-java/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo-maven-generate-code-json-schema-to-java/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo-maven-generate-code-wsdl-to-java/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-maven-generate-code-wsdl-to-java/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo-maven-generate-xsd-to-java/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo-maven-generatecode-java-to-xsd/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-maven-surefire-plugin-code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-maven-surefire-testNG-config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-project-maven-openapi-java/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-project-maven-openapi-java/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-project-maven-surefire-junit4-code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-project-maven-surefire-junit4-junit5-runboth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-project-maven-surefire-junit5-code/src/main/java" charset="UTF-8" />
   </component>
 </project>

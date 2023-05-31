@@ -2,28 +2,43 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="demo-custome-lifecycle-mapping" />
-        <module name="demo-maven-generate-code-json-schema-to-java" />
+        <module name="demo-project-maven-surefire-junit5-code" />
+        <module name="demo-maven-code-challenges-java-junitreport" />
         <module name="demo-maven-generate-xsd-to-java" />
-        <module name="demo-maven-generatecode-java-to-xsd" />
         <module name="demo-maven-generate-code-java-to-json-schema" />
-        <module name="demo-maven-generate-code-wsdl-to-java" />
+        <module name="demo-maven-surefire-plugin-code" />
         <module name="demo-maven-failsafe-intgretation" />
+        <module name="demo-project-maven-surefire-junit4-junit5-runboth" />
+        <module name="demo-project-maven-surefire-junit4-code" />
+        <module name="demo-maven-surefire-testNG-config" />
+        <module name="demo-project-maven-openapi-java" />
+        <module name="demo-maven-generate-code-json-schema-to-java" />
+        <module name="demo-maven-generatecode-java-to-xsd" />
+        <module name="demo-maven-generate-code-wsdl-to-java" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="demo-custome-lifecycle-mapping" target="1.8" />
+      <module name="demo-maven-code-challenges-java-junitreport" target="1.8" />
       <module name="demo-maven-failsafe-intgretation" target="1.8" />
       <module name="demo-maven-generate-code-java-to-json-schema" target="1.8" />
       <module name="demo-maven-generate-code-json-schema-to-java" target="1.8" />
-      <module name="demo-maven-generate-code-wsdl-to-java" target="1.7" />
+      <module name="demo-maven-generate-code-wsdl-to-java" target="1.8" />
       <module name="demo-maven-generate-xsd-to-java" target="1.8" />
       <module name="demo-maven-generatecode-java-to-xsd" target="1.8" />
+      <module name="demo-maven-surefire-plugin-code" target="1.8" />
+      <module name="demo-maven-surefire-testNG-config" target="1.8" />
       <module name="demo-project-maven-module" target="1.8" />
+      <module name="demo-project-maven-openapi-java" target="1.8" />
+      <module name="demo-project-maven-surefire-junit4-code" target="1.8" />
+      <module name="demo-project-maven-surefire-junit4-junit5-runboth" target="1.8" />
+      <module name="demo-project-maven-surefire-junit5-code" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

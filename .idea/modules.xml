@@ -3,13 +3,20 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/demo-custome-lifecycle-mapping/demo-custome-lifecycle-mapping.iml" filepath="$PROJECT_DIR$/demo-custome-lifecycle-mapping/demo-custome-lifecycle-mapping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-maven-code-challenges-java-junitreport/demo-maven-code-challenges-java-junitreport.iml" filepath="$PROJECT_DIR$/demo-maven-code-challenges-java-junitreport/demo-maven-code-challenges-java-junitreport.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-maven-failsafe-intgretation/demo-maven-failsafe-intgretation.iml" filepath="$PROJECT_DIR$/demo-maven-failsafe-intgretation/demo-maven-failsafe-intgretation.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-maven-generate-code-java-to-json-schema/demo-maven-generate-code-java-to-json-schema.iml" filepath="$PROJECT_DIR$/demo-maven-generate-code-java-to-json-schema/demo-maven-generate-code-java-to-json-schema.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-maven-generate-code-json-schema-to-java/demo-maven-generate-code-json-schema-to-java.iml" filepath="$PROJECT_DIR$/demo-maven-generate-code-json-schema-to-java/demo-maven-generate-code-json-schema-to-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-maven-generate-code-wsdl-to-java/demo-maven-generate-code-wsdl-to-java.iml" filepath="$PROJECT_DIR$/demo-maven-generate-code-wsdl-to-java/demo-maven-generate-code-wsdl-to-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-maven-generate-xsd-to-java/demo-maven-generate-xsd-to-java.iml" filepath="$PROJECT_DIR$/demo-maven-generate-xsd-to-java/demo-maven-generate-xsd-to-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-maven-generatecode-java-to-xsd/demo-maven-generatecode-java-to-xsd.iml" filepath="$PROJECT_DIR$/demo-maven-generatecode-java-to-xsd/demo-maven-generatecode-java-to-xsd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-maven-surefire-plugin-code/demo-maven-surefire-plugin-code.iml" filepath="$PROJECT_DIR$/demo-maven-surefire-plugin-code/demo-maven-surefire-plugin-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-maven-surefire-testNG-config/demo-maven-surefire-testNG-config.iml" filepath="$PROJECT_DIR$/demo-maven-surefire-testNG-config/demo-maven-surefire-testNG-config.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-project-maven-module.iml" filepath="$PROJECT_DIR$/demo-project-maven-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-project-maven-openapi-java/demo-project-maven-openapi-java.iml" filepath="$PROJECT_DIR$/demo-project-maven-openapi-java/demo-project-maven-openapi-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-project-maven-surefire-junit4-code/demo-project-maven-surefire-junit4-code.iml" filepath="$PROJECT_DIR$/demo-project-maven-surefire-junit4-code/demo-project-maven-surefire-junit4-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-project-maven-surefire-junit4-junit5-runboth/demo-project-maven-surefire-junit4-junit5-runboth.iml" filepath="$PROJECT_DIR$/demo-project-maven-surefire-junit4-junit5-runboth/demo-project-maven-surefire-junit4-junit5-runboth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-project-maven-surefire-junit5-code/demo-project-maven-surefire-junit5-code.iml" filepath="$PROJECT_DIR$/demo-project-maven-surefire-junit5-code/demo-project-maven-surefire-junit5-code.iml" />
     </modules>
   </component>
 </project>
