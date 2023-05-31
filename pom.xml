@@ -21,6 +21,8 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
       <module>demo-project-maven-surefire-junit4-code</module>
       <module>demo-project-maven-surefire-junit5-code</module>
     <module>demo-project-maven-surefire-junit4-junit5-runboth</module>
+      <module>demo-maven-surefire-testNG-config</module>
+      <module>demo-maven-code-challenges-java-junitreport</module>
   </modules>
 
 

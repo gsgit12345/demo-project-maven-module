@@ -27,3 +27,17 @@
       1-pojo test
       2-JUNIT
       3-TestNG
+
+      https://testng.org/doc/documentation-main.html   --testIng tutorial
+
+[iid@iid demo-maven-code-challenges-java-junitreport]$ python -m http.server
+
+mvn package -DskipTests    for skipping test
+[iid@iid demo-maven-code-challenges-java-junitreport]$ mvn package -Dmaven.skip.test=true
+mvn -Dtest=BiggerTwoTest  ==it will run only single test
+mvn test '-Dtest=**/codingbat/array1/*.Test, !**/codingbat/array1/M*Test'
+
+parallel test execution
+
+
+https://www.youtube.com/watch?v=GAebeKHcc78&list=PLFZica6HmcrgwZ_TnFc4Z00mOR0L2XsUG&index=25   --tutorial link
